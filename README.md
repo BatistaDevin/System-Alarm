@@ -38,3 +38,12 @@ Buzzer simula uma sirene policial alternando tons.
 Resistores, fios e uma protoboard
 
 Fonte externa 9V
+
+
+![Image](https://github.com/user-attachments/assets/6e3827ee-c74e-413c-9a02-b61a586b2a67)
+
+![Image](https://github.com/user-attachments/assets/f4932b47-b9d4-4374-9e7a-998bafdfdd35)
+
+![Image](https://github.com/user-attachments/assets/190a439d-ebe3-4bec-a47f-6d0d16db77df)
+
+![Image](https://github.com/user-attachments/assets/475848da-5e38-4668-9d84-047bf35eabdc)
